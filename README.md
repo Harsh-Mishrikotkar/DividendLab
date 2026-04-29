@@ -244,13 +244,7 @@ It is not intended to provide financial advice.
 
 ## Author
 
-[Your Name]
+Harsh Mishrikotkar
 
 * BS in Statistics (Expected)
 * CFA Level 1 Candidate
-
----
-
-## License
-
-MIT License
