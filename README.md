@@ -165,7 +165,7 @@ Instead of a single projection, the system generates:
 
 ### Completed
 
-* [ ] Initial research regarding dividends and reinvestment
+* [x] Initial research regarding dividends and reinvestment
 
 ### In Progress
 
