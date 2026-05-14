@@ -70,7 +70,7 @@ Unlike basic financial calculators, DividendLab focuses on **stochastic modeling
 
 ---
 
-## Project Structure
+## Planed Project Structure
 
 ```
 dividendlab/
@@ -165,10 +165,10 @@ Instead of a single projection, the system generates:
 
 ### Completed
 
-* [x] Initial research regarding dividends and reinvestment
 
 ### In Progress
 
+* [ ] Initial research regarding dividends and reinvestment
 * [ ] Core portfolio model
 * [ ] Dividend reinvestment logic
 * [ ] Deterministic simulation engine
