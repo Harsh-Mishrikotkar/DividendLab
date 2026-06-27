@@ -676,7 +676,9 @@ The simulation runner should call models through clearly defined interfaces rath
 Example:
 
 ```mermaid
+
 %%{init: {'theme': 'dark'}}%%
+
 flowchart TD
     A[simulation_runner.py] --> B[return_model.py]
     B --> C[portfolio_manager.py]
