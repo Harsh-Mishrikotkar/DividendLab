@@ -1,5 +1,5 @@
 """
-backend/data/repositories/settings_repository.py
+backend/data/repositories/app_settings_repository.py
 
 Project Niyati — Application Settings Repository
 ================================================
